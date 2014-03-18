@@ -1,0 +1,16 @@
+#window {
+    height: 100%;
+    overflow: hidden
+}
+
+#content {
+    position: absolute;
+    width: 100%
+}
+
+#pull_to_refresh, #refreshing {
+    line-height: 50px;
+    text-align: center;
+    top: 82px;
+    position: absolute;
+}

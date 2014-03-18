@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.pengeplan.phonegap" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Pengeplan Cordova</name>
+    <description>
+        Mobile application for www.pengeplan.dk
+    </description>
+    <author email="tommy@eazyit.dk" href="http://www.pengeplan.dk">
+        Tommy Sadiq Hinrichsen
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+
+	<preference name="Orientation" value="portrait" />
+
+    <preference name="webviewbounce" value="false" />
+    <preference name="UIWebViewBounce" value="false" />
+    <preference name="DisallowOverscroll" value="true" />
+
+    <!-- Hybugger -->
+    <preference name="loadUrlTimeoutValue" value="120000" />
+
+</widget>
