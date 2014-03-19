@@ -25,9 +25,9 @@
  */
 
 //var URL = 'https://www.pengeplan.dk/api/user'; LIVE
-//var URL = 'http://10.0.1.3:8080/api/user'; Home
+var URL = 'http://10.0.1.3:8080/api/user'; //Home
 //var URL = 'http://192.168.0.114:8080/api/user'; Gilbjerggade
-var URL = 'http://0.0.0.0:8080/api/user'; //City
+//var URL = 'http://0.0.0.0:8080/api/user'; //City
 
 Storage.prototype.setObject = function (key, value) {
     this.setItem(key, JSON.stringify(value));
