@@ -1,0 +1,1093 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" name="Default" comment="" />
+    <ignored path="Pengeplan.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="platforms/ios/.idea/scopes/scope_settings.xml" />
+    <ignored path="platforms/ios/.idea/encodings.xml" />
+    <ignored path="platforms/ios/.idea/vcs.xml" />
+    <ignored path="platforms/ios/.idea/xcode.xml" />
+    <ignored path="platforms/ios/.idea/workspace.xml" />
+    <ignored path="platforms/ios/.idea/ios.iml" />
+    <ignored path="platforms/ios/.idea/.name" />
+    <ignored path="platforms/ios/.idea/misc.xml" />
+    <ignored path="platforms/ios/.idea/modules.xml" />
+    <ignored path="platforms/ios/Pengeplan.ipa" />
+    <ignored path="plugins/" />
+    <ignored path="Pengeplan Cordova.iml" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/spec.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391818132077" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/www/config.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391818132077" ignored="false" />
+    <file path="/custom.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391902753839" ignored="false" />
+    <file path="/securities.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393242989442" ignored="false" />
+    <file path="/index.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1394102557158" ignored="false" />
+    <file path="/index.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396355353457" ignored="false" />
+    <file path="/jquery.mobile.iscrollview-pull.css" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391862467691" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/device/Pengeplan.app/www/js/iscroll.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391867527768" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/Products/Debug-iphoneos/Pengeplan.app/www/js/iscroll.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391867527768" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/Pengeplan.app/www/js/iscroll.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391867527768" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/Pengeplan.app/www/securities.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391869589445" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/Pengeplan.app/www/js/custom.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391867527768" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/emulator/Pengeplan.app/www/plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391867527768" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/Products/Debug-iphoneos/Pengeplan.app/www/plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391867527768" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/device/Pengeplan.app/www/securities.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391869589445" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/device/Pengeplan.app/www/plugins/com.phonegap.plugins.sqlite/www/SQLitePlugin.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391867527768" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/Products/Debug-iphoneos/Pengeplan.app/_CodeSignature/CodeResources" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391871499342" ignored="false" />
+    <file path="/Dummy.txt" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396356197830" ignored="false" />
+    <file path="/history.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392207080588" ignored="false" />
+    <file path="/topcoat-mobile-light.css" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391896637787" ignored="false" />
+    <file path="/depositories.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392203151330" ignored="false" />
+    <file path="/common.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391949028682" ignored="false" />
+    <file path="/securities.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392077406040" ignored="false" />
+    <file path="/depositories.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391968209379" ignored="false" />
+    <file path="/history.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1391978468388" ignored="false" />
+    <file path="/transactions.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392207723966" ignored="false" />
+    <file path="/transactions.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392077499112" ignored="false" />
+    <file path="/config.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151696219" ignored="false" />
+    <file path="/fragment.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396355119518" ignored="false" />
+    <file path="/test.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392067827211" ignored="false" />
+    <file path="$USER_HOME$/Desktop/res/layout/main.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063080978" ignored="false" />
+    <file path="$USER_HOME$/Desktop/res/values/strings.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063080978" ignored="false" />
+    <file path="$USER_HOME$/Desktop/AndroidManifest.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063080978" ignored="false" />
+    <file path="$USER_HOME$/Desktop/build.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063080978" ignored="false" />
+    <file path="$USER_HOME$/Desktop/src/com/example/Desktop/MyActivity.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063080978" ignored="false" />
+    <file path="$USER_HOME$/Desktop/gen/com/example/Desktop/BuildConfig.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063139280" ignored="false" />
+    <file path="$USER_HOME$/Desktop/.idea/workspace.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063346912" ignored="false" />
+    <file path="$USER_HOME$/Desktop/gen/com/example/Desktop/Manifest.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063109397" ignored="false" />
+    <file path="$USER_HOME$/Desktop/gen/com/example/Desktop/R.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392063109397" ignored="false" />
+    <file path="/a.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393407871211" ignored="false" />
+    <file path="/pull.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392080157959" ignored="false" />
+    <file path="/pull-no-menu.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392079526234" ignored="false" />
+    <file path="/main.css" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392211082729" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/domain/enums/AccountTransactionType.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382834162" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/transactions/addtransactionpage/panel/transactions/MoveCashPanel.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392370350372" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/unsecure/AppWebApplication_da.utf8.properties" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392389337979" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/dao/simpledb/AccountTransactionDaoImpl.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392366905900" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/services/MobileApiService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392366905900" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/pom.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/resources/logback.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/api/JerseyUserApi.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393406344093" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/pom.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/webserver/pom.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392366905900" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/transactions/addtransactionpage/panel/transactions/MoveCashPanel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392370343540" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/LoggedInPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392366905900" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/services/AccountTransactionService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392366905900" ignored="false" />
+    <file path="/SpringSecurityDynamoUserDetailsService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392367816370" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/services/SpringSecurityDynamoUserDetailsService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392367820786" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/resources/environment.properties" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392368276451" ignored="false" />
+    <file path="/MoveCashPanel.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392368749622" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/components/validator/MutableMinimumValidator.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392369550591" ignored="false" />
+    <file path="/MutableMinimumValidator.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392369200284" ignored="false" />
+    <file path="/MoveCashPanel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392370338700" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/accounts/assetsPage/DepositoryPanelSingleCurrency.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392375282050" ignored="false" />
+    <file path="/DepositoryPanelSingleCurrency.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392375282050" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/accounts/assetsPage/DepositoryPanelSingleCurrency.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392375637713" ignored="false" />
+    <file path="/DepositoryPanelSingleCurrency.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392375629800" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/domain/store/CompleteOwnedAccount.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392373096454" ignored="false" />
+    <file path="/AppWebApplication_da.utf8.properties" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392389275052" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/unsecure/AppWebApplication.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392378822204" ignored="false" />
+    <file path="/AppWebApplication.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392378698532" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/transactions/TransactionsPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="/TransactionsPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382531029" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/transactions/TransactionsPage.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/webserver.log" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392387596363" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/domain/store/CompleteAccountTransaction.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="/CompleteAccountTransaction.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382606054" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/services/transactionreporting/TransactionReportingService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/services/itemreporting/ItemReportingService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/config/ApplicationConfig.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382745957" ignored="false" />
+    <file path="/AccountTransactionType.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392382834162" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/components/validator/InvestmentItemValidator.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392383141567" ignored="false" />
+    <file path="/a.dummy" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1394113018752" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/transactions/AddTransactionPage_da.utf8.properties" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392383188434" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/sysadmin/investmentitemspage/InvestmentItemDataTableActionPanel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385750924" ignored="false" />
+    <file path="/InvestmentItemDataTableActionPanel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385748125" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/sysadmin/investmentitemspage/InvestmentItemDataTableActionPanel.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385682883" ignored="false" />
+    <file path="/InvestmentItemDataTableActionPanel.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392384664970" ignored="false" />
+    <file path="/AreYouSureModal.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392384967711" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/components/modal/AreYouSureModal.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392384975872" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/sysadmin/InvestmentItemsPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385675992" ignored="false" />
+    <file path="/InvestmentItemsPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385673995" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/sysadmin/investmentitemspage/TransferInvestmentItemModal.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385644407" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/sysadmin/InvestmentItemsPage.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385753746" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/sysadmin/investmentitemspage/ColumnsForInvestmentItemsPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385718157" ignored="false" />
+    <file path="/ColumnsForInvestmentItemsPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385714934" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/httplog/jetty-2014_02_14.request.log" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392385753746" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/accounts/FinanceAccountsPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392386478213" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/transactions/UploadDataPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392390662842" ignored="false" />
+    <file path="/UploadDataPage.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392390593571" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/app/secure/transactions/UploadDataPage.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392388539846" ignored="false" />
+    <file path="/UploadDataPage.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392388539846" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/components/models/entity/SessionAwareIModel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392389508961" ignored="false" />
+    <file path="/SessionAwareIModel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392389554514" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/components/models/entity/SessionAwareAbstractReadOnlyModel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392389559582" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/pengeplan/mainwar/src/main/java/com/trifork/pengeplan/web/components/models/entity/DepotInformationModel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392389615901" ignored="false" />
+    <file path="/DepotInformationModel.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1392389613801" ignored="false" />
+    <file path="/index.tpl.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393238226284" ignored="false" />
+    <file path="/jquery.mobile-1.4.1.css" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393242897636" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/ios/build/Products/Debug-iphonesimulator/Pengeplan.app/config.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393244258793" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/css/pull.css" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393404076830" ignored="false" />
+    <file path="/JerseyUserApi.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1393406333628" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/bin/AndroidManifest.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1394109593904" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/CordovaLib/gen/org/apache/cordova/BuildConfig.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1394109593906" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_0_1.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__com_google_android_android_4_1_1_4.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__xerces_xmlParserAPIs_2_6_2.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__org_khronos_opengl_api_gl1_1_android_2_1_r1.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__xpp3_xpp3_1_1_4c.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__org_json_json_20080701.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__commons_codec_commons_codec_1_3.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_0_1.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395148666115" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/Maven__com_google_android_android_4_4.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395150891457" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/android_16.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151065296" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/libraries/android_19.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151263818" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/scopes/scope_settings.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151263818" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/index.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396355421754" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/cordova.js" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151351996" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/vcs.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151557208" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/findbugs-idea.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151557243" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/encodings.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151557243" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/uiDesigner.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151557243" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/gradle.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395151557244" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/.idea/vcs.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395153756059" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/.idea/workspace.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395232284794" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/SecuritiesArrayAdapter.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395216504351" ignored="false" />
+    <file path="/SecuritiesArrayAdapter.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395216491240" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/DepositoriesArrayAdapter.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395216740069" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/PengeplanService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395231798003" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/adapter/HistoryArrayAdapter.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395230974440" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Overview.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395218756056" ignored="false" />
+    <file path="/Overview.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395218720668" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/service/TransactionService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395217014163" ignored="false" />
+    <file path="/TransactionService.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395217004452" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/dal/domain/Constants.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395218745712" ignored="false" />
+    <file path="/Constants.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395218729667" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/src/main/java/dk/eazyit/pengeplan/android/Pengeplan_Android/activity/Transactions.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395226767985" ignored="false" />
+    <file path="/Transactions.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395226760989" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/res/layout/transactions.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395227866124" ignored="false" />
+    <file path="$USER_HOME$/IdeaProjects/Pengeplan_Android/AndroidManifest.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395226727063" ignored="false" />
+    <file path="/AndroidManifest.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395226714280" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/.idea/workspace.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1395232284794" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/test.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396351743259" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/depositories.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396351743259" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/history.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396351743259" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/securities.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396351743259" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396355694371" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/assets/www/transactions.html" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396351743259" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/project.properties" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396355137575" ignored="false" />
+    <file path="$PROJECT_DIR$/platforms/android/src/org/pgsqlite/SQLitePlugin.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396351902033" ignored="false" />
+    <file path="/SQLitePlugin.java" changelist="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" time="1396351875984" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="REMOVE_AFTER_HIT" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties default_suspend_policy="SuspendAll" default_condition_enabled="true" />
+    <breakpoint_rules />
+    <ui_properties />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Pengeplan" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="common.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/common.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="26" column="46" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="19" column="36" selection-start="747" selection-end="747" vertical-scroll-proportion="0.34713763">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="history.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/history.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="44" column="0" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1394113024000" expanded="true" signature="1123:1149" placeholder="SELECT * FRO..TRANSACTIONS..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="70" selection-start="2736" selection-end="2736" vertical-scroll-proportion="-12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/js/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="25" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.0">
+              <folding>
+                <marker date="1394114399000" expanded="true" signature="2745:2764" placeholder="SELECT * FRO..LOGIN..." />
+                <marker date="1394114399000" expanded="true" signature="4250:4328" placeholder="INSERT OR RE..." />
+                <marker date="1394114399000" expanded="true" signature="4604:4621" placeholder="DELETE FROM ..." />
+                <marker date="1394114399000" expanded="true" signature="4868:4887" placeholder="SELECT * FRO..LOGIN..." />
+                <marker date="1394114399000" expanded="true" signature="5818:5892" placeholder="CREATE TABLE..LOGIN..." />
+                <marker date="1394114399000" expanded="true" signature="5919:6112" placeholder="CREATE TABLE..TRANSACTIONS..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Push.Settings">
+    <option name="myUpdateMethod" value="REBASE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myStructureFilterPaths" />
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/platforms/android/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/www/css/jquery.mobile-1.4.1.css" />
+        <option value="$PROJECT_DIR$/www/securities.html" />
+        <option value="$PROJECT_DIR$/www/transactions.html" />
+        <option value="$PROJECT_DIR$/www/css/pull-no-menu.css" />
+        <option value="$PROJECT_DIR$/www/js/securities.js" />
+        <option value="$PROJECT_DIR$/www/js/transactions.js" />
+        <option value="$PROJECT_DIR$/www/js/depositories.js" />
+        <option value="$PROJECT_DIR$/www/js/history.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/www/js/common.js" />
+        <option value="$PROJECT_DIR$/platforms/ios/www/js/index.js" />
+        <option value="$PROJECT_DIR$/www/js/index.js" />
+        <option value="$PROJECT_DIR$/platforms/android/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/www/js/common.js" />
+        <option value="$PROJECT_DIR$/config.xml" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="52" />
+    <option name="y" value="22" />
+    <option name="width" value="1868" />
+    <option name="height" value="1178" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan Cordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan Cordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pengeplan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan Cordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pengeplan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan Cordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pengeplan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan Cordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pengeplan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="merges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="ios" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Pengeplan Cordova" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="pengeplan" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="merges" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="android" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="242" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="244" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="244" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="recentsLimit" value="5" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="253" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1043" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1042" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="249" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="245" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="FullScreen" value="false" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.searchVisible" value="true" />
+    <property name="dynamic.classpath" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/css" />
+      <recent name="$PROJECT_DIR$/www/js" />
+      <recent name="$PROJECT_DIR$/www/img" />
+      <recent name="$PROJECT_DIR$/www/fonts" />
+      <recent name="$PROJECT_DIR$/merges/ios/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/tpl" />
+      <recent name="$PROJECT_DIR$/merges/ios" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local" singleton="true">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" value="embedded" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <method />
+    </configuration>
+    <list size="0" />
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="true">$USER_HOME$/.subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88440ddf-a96e-4ef6-94c1-c8256da8c3e6" name="Default" comment="" />
+      <created>1391816779941</created>
+      <updated>1391816779941</updated>
+    </task>
+    <task id="LOCAL-00001" summary="working copy with iscroll4">
+      <created>1391871967619</created>
+      <updated>1391871967619</updated>
+    </task>
+    <task id="LOCAL-00002" summary="removed pull to refresh">
+      <created>1391879847474</created>
+      <updated>1391879847474</updated>
+    </task>
+    <task id="LOCAL-00003" summary="removed unused files&#10;">
+      <created>1391879873737</created>
+      <updated>1391879873737</updated>
+    </task>
+    <task id="LOCAL-00004" summary="working securities page with pull to refresh and seperation of js files">
+      <created>1391965190897</created>
+      <updated>1391965190897</updated>
+    </task>
+    <task id="LOCAL-00005" summary="working depositories page with pull to refresh">
+      <created>1391969133845</created>
+      <updated>1391969133845</updated>
+    </task>
+    <task id="LOCAL-00006" summary="finished transactions and history">
+      <created>1391983862199</created>
+      <updated>1391983862199</updated>
+    </task>
+    <task id="LOCAL-00007" summary="finished ios version">
+      <created>1391988941949</created>
+      <updated>1391988941949</updated>
+    </task>
+    <task id="LOCAL-00008" summary="working android without pull to refresh and with ios theme">
+      <created>1392042859841</created>
+      <updated>1392042859841</updated>
+    </task>
+    <task id="LOCAL-00009" summary="working ios">
+      <created>1392074952653</created>
+      <updated>1392074952653</updated>
+    </task>
+    <task id="LOCAL-00010" summary="working android and ios, missing css for android">
+      <created>1392081320708</created>
+      <updated>1392081320708</updated>
+    </task>
+    <task id="LOCAL-00011" summary="working android and ios, missing css for android">
+      <created>1392081357684</created>
+      <updated>1392081357684</updated>
+    </task>
+    <task id="LOCAL-00012" summary="working ios with merged css files">
+      <created>1392208107150</created>
+      <updated>1392208107150</updated>
+    </task>
+    <task id="LOCAL-00013" summary="forgot to include android icons">
+      <created>1392208212113</created>
+      <updated>1392208212113</updated>
+    </task>
+    <task id="LOCAL-00014" summary="custom css files added again">
+      <created>1392208310909</created>
+      <updated>1392208310909</updated>
+    </task>
+    <task id="LOCAL-00015" summary="reverted to before rebase">
+      <created>1392208533863</created>
+      <updated>1392208533863</updated>
+    </task>
+    <task id="LOCAL-00016" summary="include fonts">
+      <created>1392208577464</created>
+      <updated>1392208577464</updated>
+    </task>
+    <task id="LOCAL-00017" summary="working ios and android">
+      <created>1392321065767</created>
+      <updated>1392321065767</updated>
+    </task>
+    <task id="LOCAL-00018" summary="working ios and android">
+      <created>1393241906445</created>
+      <updated>1393241906445</updated>
+    </task>
+    <task id="LOCAL-00019" summary="working ios and android">
+      <created>1393421423918</created>
+      <updated>1393421423918</updated>
+    </task>
+    <task id="LOCAL-00020" summary="minor changes">
+      <created>1394106472699</created>
+      <updated>1394106472699</updated>
+    </task>
+    <task id="LOCAL-00021" summary="working again">
+      <created>1394112785339</created>
+      <updated>1394112785339</updated>
+    </task>
+    <task id="LOCAL-00022" summary="changed db back">
+      <created>1394114495154</created>
+      <updated>1394114495154</updated>
+    </task>
+    <task id="LOCAL-00023" summary="init">
+      <created>1395153631892</created>
+      <updated>1395153631892</updated>
+    </task>
+    <task id="LOCAL-00024" summary="prefilled password and username">
+      <created>1395232296349</created>
+      <updated>1395232296349</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changed address to pengeplan and default login">
+      <created>1396355378113</created>
+      <updated>1396355378113</updated>
+    </task>
+    <task id="LOCAL-00026" summary="added new icon image format">
+      <created>1396356199672</created>
+      <updated>1396356199672</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="52" y="22" width="1868" height="1178" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21461609" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293247" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.653099" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2766191" sideWeight="0.7853839" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293247" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORIZONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" value="added new icon image format" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+    <MESSAGE value="working copy with iscroll4" />
+    <MESSAGE value="removed pull to refresh" />
+    <MESSAGE value="removed unused files&#10;" />
+    <MESSAGE value="working securities page with pull to refresh and seperation of js files" />
+    <MESSAGE value="working depositories page with pull to refresh" />
+    <MESSAGE value="finished transactions and history" />
+    <MESSAGE value="finished ios version" />
+    <MESSAGE value="working android without pull to refresh and with ios theme" />
+    <MESSAGE value="working ios" />
+    <MESSAGE value="working android and ios, missing css for android" />
+    <MESSAGE value="working ios with merged css files" />
+    <MESSAGE value="forgot to include android icons" />
+    <MESSAGE value="custom css files added again" />
+    <MESSAGE value="reverted to before rebase" />
+    <MESSAGE value="include fonts" />
+    <MESSAGE value="working ios and android" />
+    <MESSAGE value="minor changes" />
+    <MESSAGE value="working again" />
+    <MESSAGE value="changed db back" />
+    <MESSAGE value="init" />
+    <MESSAGE value="prefilled password and username" />
+    <MESSAGE value="changed address to pengeplan and default login" />
+    <MESSAGE value="added new icon image format" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/www/securities.html</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/www/js/index.js</url>
+          <line>28</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="71" selection-start="2736" selection-end="2736" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/pull-no-menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="53" selection-start="2190" selection-end="2199" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/www/js/depositories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/www/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="140" column="4" selection-start="4942" selection-end="4942" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/platforms/ios/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="46" column="17" selection-start="1434" selection-end="1434" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.flot.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/jquery.flot.pie.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/securities.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="102" column="0" selection-start="4027" selection-end="4027" vertical-scroll-proportion="0.8886139">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/depositories.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="1" selection-start="3507" selection-end="3507" vertical-scroll-proportion="0.8886139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/transactions.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="0" selection-start="2705" selection-end="2707" vertical-scroll-proportion="0.35024753">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/history.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="44" column="0" selection-start="1903" selection-end="1903" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1394113024000" expanded="true" signature="1123:1149" placeholder="SELECT * FRO..TRANSACTIONS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="25" selection-start="2629" selection-end="2629" vertical-scroll-proportion="0.0">
+          <folding>
+            <marker date="1394114399000" expanded="true" signature="2745:2764" placeholder="SELECT * FRO..LOGIN..." />
+            <marker date="1394114399000" expanded="true" signature="4250:4328" placeholder="INSERT OR RE..." />
+            <marker date="1394114399000" expanded="true" signature="4604:4621" placeholder="DELETE FROM ..." />
+            <marker date="1394114399000" expanded="true" signature="4868:4887" placeholder="SELECT * FRO..LOGIN..." />
+            <marker date="1394114399000" expanded="true" signature="5818:5892" placeholder="CREATE TABLE..LOGIN..." />
+            <marker date="1394114399000" expanded="true" signature="5919:6112" placeholder="CREATE TABLE..TRANSACTIONS..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/js/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="26" column="46" selection-start="1020" selection-end="1020" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="70" selection-start="2736" selection-end="2736" vertical-scroll-proportion="-12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="36" selection-start="747" selection-end="747" vertical-scroll-proportion="0.34713763">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Pengeplan Cordova</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
